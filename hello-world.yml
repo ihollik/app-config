@@ -1,3 +1,5 @@
 name: Boaty McBoatface
 ---
-name: Yacht
+spring:
+   profiles: dev
+   -name: Yacht
