@@ -1,5 +1,5 @@
-name: Boaty McBoatface
+name: Tasty
 ---
 spring:
    profiles: dev
-   -name: Yacht
+   -name: NotSoTasty
